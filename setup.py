@@ -4,7 +4,7 @@
 import glob
 import os
 
-from distutils.core import setup
+from setuptools import setup
 
 PACKAGE_NAME = "impacket"
 
